@@ -1,0 +1,36 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:54711/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "RunLocal": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "api/audio",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "IBM.SPEECHTOTEXT.APIKEY": "1Suyo2V4W1442ota60YT7cf5765JpAsPT8YQOmjuDKDN",
+        "IBM.SPEECHTOTEXT.LANGUAGE": "pt-BR_BroadbandModel",
+        "IBM.SPEECHTOTEXT.CONTENTTYPE": "audio/flac",
+        "IBM.SPEECHTOTEXT.ENDPOINTURL": "https://api.eu-gb.speech-to-text.watson.cloud.ibm.com",
+        "IBM.NLU.APIKEY": "AIAUX0zFoBihH0HVgHlWtFC-aIsWZ3DeJ8YRuoeqjdrh",
+        "IBM.NLU.ENDPOINTURL": "https://api.us-south.natural-language-understanding.watson.cloud.ibm.com",
+        "IBM.WKS.MODELID": "c1a3f914-1f7b-46b2-a096-08b5942c3983"
+      }
+    },
+    "FcaApplication.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/values",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:54710/"
+    }
+  }
+}

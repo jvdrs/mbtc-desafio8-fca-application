@@ -1,0 +1,11 @@
+C:\Users\jorge\source\repos\FcaApplication.Api\FcaApplication.Api\bin\Release\netcoreapp2.0\FcaApplication.Api.deps.json
+C:\Users\jorge\source\repos\FcaApplication.Api\FcaApplication.Api\bin\Release\netcoreapp2.0\FcaApplication.Api.runtimeconfig.json
+C:\Users\jorge\source\repos\FcaApplication.Api\FcaApplication.Api\bin\Release\netcoreapp2.0\FcaApplication.Api.runtimeconfig.dev.json
+C:\Users\jorge\source\repos\FcaApplication.Api\FcaApplication.Api\bin\Release\netcoreapp2.0\FcaApplication.Api.dll
+C:\Users\jorge\source\repos\FcaApplication.Api\FcaApplication.Api\bin\Release\netcoreapp2.0\FcaApplication.Api.pdb
+C:\Users\jorge\source\repos\FcaApplication.Api\FcaApplication.Api\obj\Release\netcoreapp2.0\FcaApplication.Api.csprojAssemblyReference.cache
+C:\Users\jorge\source\repos\FcaApplication.Api\FcaApplication.Api\obj\Release\netcoreapp2.0\FcaApplication.Api.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\FcaApplication.Api\FcaApplication.Api\obj\Release\netcoreapp2.0\FcaApplication.Api.AssemblyInfoInputs.cache
+C:\Users\jorge\source\repos\FcaApplication.Api\FcaApplication.Api\obj\Release\netcoreapp2.0\FcaApplication.Api.AssemblyInfo.cs
+C:\Users\jorge\source\repos\FcaApplication.Api\FcaApplication.Api\obj\Release\netcoreapp2.0\FcaApplication.Api.dll
+C:\Users\jorge\source\repos\FcaApplication.Api\FcaApplication.Api\obj\Release\netcoreapp2.0\FcaApplication.Api.pdb

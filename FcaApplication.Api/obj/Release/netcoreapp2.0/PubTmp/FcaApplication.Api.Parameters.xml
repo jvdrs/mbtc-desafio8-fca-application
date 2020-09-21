@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="mbtc-jvdrs-desafio8" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\jorge\\source\\repos\\FcaApplication\.Api\\FcaApplication\.Api\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
