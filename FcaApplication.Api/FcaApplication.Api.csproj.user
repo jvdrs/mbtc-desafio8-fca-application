@@ -6,5 +6,6 @@
   <PropertyGroup>
     <ActiveDebugProfile>RunLocal</ActiveDebugProfile>
     <NameOfLastUsedPublishProfile>mbtc-jvdrs-desafio8 - Web Deploy</NameOfLastUsedPublishProfile>
+    <ShowAllFiles>true</ShowAllFiles>
   </PropertyGroup>
 </Project>

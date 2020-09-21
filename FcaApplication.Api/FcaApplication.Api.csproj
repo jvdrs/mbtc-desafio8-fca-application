@@ -12,7 +12,10 @@
   <ItemGroup>
     <PackageReference Include="IBM.Watson.NaturalLanguageUnderstanding.v1" Version="4.6.0" />
     <PackageReference Include="IBM.Watson.SpeechToText.v1" Version="4.6.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights" Version="2.15.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Logging.ApplicationInsights" Version="2.15.0" />
     <PackageReference Include="System.Text.Encoding.CodePages" Version="4.7.1" />
   </ItemGroup>
 

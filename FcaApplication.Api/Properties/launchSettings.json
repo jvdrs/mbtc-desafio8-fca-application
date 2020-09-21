@@ -14,6 +14,7 @@
       "launchUrl": "api/audio",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
+        "APPINSIGHTS_INSTRUMENTATIONKEY": "1f169a61-aa11-49e2-b764-efb798a454c5",
         "IBM.SPEECHTOTEXT.APIKEY": "1Suyo2V4W1442ota60YT7cf5765JpAsPT8YQOmjuDKDN",
         "IBM.SPEECHTOTEXT.LANGUAGE": "pt-BR_BroadbandModel",
         "IBM.SPEECHTOTEXT.CONTENTTYPE": "audio/flac",
